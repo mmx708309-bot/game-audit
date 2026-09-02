@@ -1,0 +1,8 @@
+{
+	"appId": "com.tahaddi.quiz50k",
+	"appName": "فكّر بسرعة",
+	"webDir": "dist/public",
+	"android": {
+		"allowMixedContent": false
+	}
+}

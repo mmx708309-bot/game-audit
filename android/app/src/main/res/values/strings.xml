@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">فكّر بسرعة</string>
+    <string name="title_activity_main">فكّر بسرعة</string>
+    <string name="admob_app_id">ca-app-pub-5675767725733870~8581665731</string>
+    <string name="package_name">com.tahaddi.quiz50k</string>
+    <string name="custom_url_scheme">com.tahaddi.quiz50k</string>
+</resources>
